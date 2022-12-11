@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class railways {
     @GetMapping("/mytrain")
     public String getData(){
-        return "Please book your  train ticket in Tejas  exp  from pune to lonavla";
+        return "Please book your  train ticket in Tejas ddddd exp  from pune to lonavla";
     }
 
 }
